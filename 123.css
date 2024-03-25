@@ -1,0 +1,46 @@
+
+canvas {
+    padding: 10px;
+    margin: 50px;
+    border: 25px;
+    box-shadow: 5px 5px 5px 5px gold;
+}
+.note {
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: 500;
+    font-stretch: semi-expanded;
+    font-family:'Segoe UI', sans-serif;
+    font-language-override: inherit;
+    font-feature-settings: "case";
+    font-variant: small-caps;
+    font-size-adjust: initial;
+    color: rgb(101, 18, 95);
+}
+
+
+#mainhead {
+ font-size: xx-large;
+ font-family: 'Times New Roman', Times, serif;
+ font-stretch: ultra-condensed;
+ font-feature-settings: "c2sc";
+ font-style: initial;
+font-weight: 1000;
+font-variant: unset;
+color: rgb(42, 138, 165);
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(34, 108, 82);
+    line-height: 3;
+    color: rgb(28, 60, 88);
+}
+
+
+
+
